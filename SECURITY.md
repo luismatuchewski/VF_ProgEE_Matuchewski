@@ -1,5 +1,4 @@
-# Security Policy
-
+# Security Policy_
 ## Reporting a Vulnerability
 
 We are working on a Vulnerability Disclosure Program for reporting issues.
